@@ -35,13 +35,53 @@ None.
 
 **Python,** **Robotics Education, Arduino, Tinkercad Online Simulator, Mechatronics, Electrical Circuits, Sensors, Soldering, Online Tutorials, Curriculum Design, Robotics Tournaments, Remote STEM Education**
 
-### 📸 Project Snapshot
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_ROLE_Community-of-Technical-Culture-of-the-City-of-Split/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.jpg?raw=true"
+       alt="Community of Technical Culture Preview 1"
+       width="640"
+       height="360">
+</p>
 
-Not available.
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_ROLE_Community-of-Technical-Culture-of-the-City-of-Split/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.jpg?raw=true"
+       alt="Community of Technical Culture Preview 2"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_ROLE_Community-of-Technical-Culture-of-the-City-of-Split/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_3.jpg?raw=true"
+       alt="Community of Technical Culture Preview 3"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_ROLE_Community-of-Technical-Culture-of-the-City-of-Split/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_4.jpg?raw=true"
+       alt="Community of Technical Culture Preview 4"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_ROLE_Community-of-Technical-Culture-of-the-City-of-Split/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_5.jpg?raw=true"
+       alt="Community of Technical Culture Preview 5"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_ROLE_Community-of-Technical-Culture-of-the-City-of-Split/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_6.jpg?raw=true"
+       alt="Community of Technical Culture Preview 6"
+       width="640"
+       height="360">
+</p>
+
+---
 
 ### 🎥 Video Demonstration
 
-Not available.
+TBD.
 
 ### 📣 Hashtags Section
 
