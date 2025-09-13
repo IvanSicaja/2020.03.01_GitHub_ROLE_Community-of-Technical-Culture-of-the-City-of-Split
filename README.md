@@ -2,7 +2,7 @@
 📍 Location:** Community of Technical Culture of the City of Split, Varaždinska 53, 21000 Split, Croatia  
 **📅 Employment Period:** March 2020 – July 2021  
 🎥 YouTube Demo: TBD  
-📦 GitHub Source Code: Not available  
+📦 GitHub: <https://github.com/IvanSicaja/2020.03.01_GitHub_ROLE_Community-of-Technical-Culture-of-the-City-of-Split>  
 \----------------------------------------------------------------------------------------------------------------
 
 **🏷️** My Personal Profiles: ⬇︎  
@@ -77,10 +77,9 @@ None.
 
 ---
 
-
 ### 🎥 Video Demonstration
 
-TBD.
+Not available.
 
 ### 📣 Hashtags Section
 
